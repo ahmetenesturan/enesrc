@@ -4,6 +4,5 @@ alias stop_openfasoc="docker container stop glayoutcontainer"
 alias updateall="sudo dnf update -y && flatpak update -y"
 alias dnfinstall="sudo dnf install"
 alias speedtest="speedtest-rs"
-alias matlab="matlab -softwareopengl"
 
 shopt -s cdspell
