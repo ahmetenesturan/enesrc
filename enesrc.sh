@@ -8,3 +8,5 @@ alias quickcommit="git add . && git commit -m \"quick commit\" && git push"
 alias matlab="env LD_PRELOAD=/usr/lib64/libstdc++.so.6 GTK_PATH=/usr/lib64/gtk-3.0 matlab -desktop ."
 
 shopt -s cdspell
+
+fortune | cowsay
