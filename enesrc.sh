@@ -9,4 +9,4 @@ alias matlab="env LD_PRELOAD=/usr/lib64/libstdc++.so.6 GTK_PATH=/usr/lib64/gtk-3
 
 shopt -s cdspell
 
-fortune | cowsay
+#fortune | cowsay
